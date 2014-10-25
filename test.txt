@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-yyy
-=======
-huhuh
->>>>>>> master
-=======
-lol
->>>>>>> master
+hihihj
