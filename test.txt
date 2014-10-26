@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-from master 2
-=======
-from servant 1
->>>>>>> change test.txt from servant 1
-=======
-from servant 2
->>>>>>> change test.txt from servant 2
+another change
