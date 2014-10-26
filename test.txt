@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-change again from master
-=======
-another change
->>>>>>> origin/servant
+start
