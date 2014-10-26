@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from master 2
+=======
+from servant 1
+>>>>>>> change test.txt from servant 1
